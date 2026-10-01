@@ -41,8 +41,6 @@ Dataset
 → Tableau Dashboard
 → Business Insights
 
-## Dashboard
-
 Tableau Public:
 ## Dashboard
 [View Interactive Tableau Dashboard]:https://public.tableau.com/views/Food_Delivery_Operations_Customer_Analytics/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
